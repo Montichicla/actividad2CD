@@ -1,0 +1,13 @@
+/* sucesiones
+Montse 
+26/09/22 */
+
+class Sucesiones {
+	public static void main (String[]args){
+		double = xn;
+		for (int n=-1; n<=4, n++){
+			
+			xn=1/(2**n)-1;
+		}	
+	}
+}

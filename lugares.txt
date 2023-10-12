@@ -1,11 +1,4 @@
-Aberdeen
-Abergavenny
-Albany
-Albuquerque
-Arbroath
-Arjeplog
-Atlanta
-Aviemore
+
 Ballycastle
 Baltimore
 Barnton
